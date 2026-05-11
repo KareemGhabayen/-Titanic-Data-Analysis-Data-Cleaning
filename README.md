@@ -36,6 +36,9 @@ Survival Gap: Females had a survival probability of approximately 74%, while mal
 
 Data Integrity: The final dataset is cleaned, free of duplicates, and has zero missing values in critical features.
 
+<img width="1112" height="663" alt="Skjermbilde 2026-05-11 224822" src="https://github.com/user-attachments/assets/2800f221-9293-48f5-b2f9-ae2258d66146" />
+
+
 Efficiency: Automated the cleaning process, making it reusable for any similar CSV data structure.
 
 
